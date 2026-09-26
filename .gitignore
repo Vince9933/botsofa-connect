@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+credentials*
+*.sqlite*
+*.pem
+*.key
+private/
+work/
+draft.local.json
